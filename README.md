@@ -1,10 +1,4 @@
 # Java
 Java is a popular and powerful programming language, created in 1995.It is owned by oracle.<br>
 It is used for:
-Mobile applications (specially Android apps)
-Desktop applications
-Web applications
-Web servers and application servers
-Games
-Database connection
-And much, much more!
+Mobile applications (specially Android apps), Desktop applications, Web applications, Web servers and application servers, Games, Database connection, And much, much more!
