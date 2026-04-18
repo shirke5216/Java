@@ -1,5 +1,5 @@
 # Java
-Java is a popular and powerful programming language, created in 1995.It is owned by oracle. 
+Java is a popular and powerful programming language, created in 1995.It is owned by oracle.<br>
 It is used for:
 Mobile applications (specially Android apps)
 Desktop applications
