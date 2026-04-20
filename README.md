@@ -26,4 +26,14 @@ iii)<ins> High Level Language:</ins> A Language which is simple english and easy
 <br> <br> Java Code ---> Compiler ---> Byte Code<br> <------------Compilation------------><br><br>
 <ins><h3>Byte Code</h3></ins><br>
 Byte Code is an intermediate code that is not understandable by machines nor by human beings, byte code is platform independent(which means it can run on any operating system)with help of JVM(Java Virtual Machine)
+<br><br><ins><h3>JVM (Java Virtual Machine)</h3></ins><br><br>
+JVM reads the byte code line by line and converts to machine understandable language with the help of JIT(Just-In-Time Compiler) and JVM is platform dependent (which means JVM used for windows cannot be used for any other operationg system).<br>
+
+
+
+
+
+
+
+
 
