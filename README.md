@@ -11,6 +11,6 @@ ii) <ins> Assembly Level Language / Mid Level Language:</ins>
 A language which is written using Mnemonics is called as Mid Level Language.<br>
 <mark>Mnemonics are predefined words used in mid-level language</mark><br>
 <mark><ins>Assembler:-</ins> Assembler is a software tool which conevrts mid love language to binaray language.</mark><br>
-iii)<ins> High Level Language:</ins> A Language which is simple english and easy to understand is known as high level language. Eg:- C,C++,Kotalin,Java,etc.<mark><br>
-<br> Q] Compiler: Compiler Is a Software Tool which converts high level language to a binary language.<br>
-<ins>Features Of Java:</ins><br>i) Simple:-
+iii)<ins> High Level Language:</ins> A Language which is simple english and easy to understand is known as high level language. Eg:- C,C++,Kotalin,Java,etc.<br>
+<br> Q] <ins>Compiler:</ins> Compiler Is a Software Tool which converts high level language to a binary language.<br> <br>
+<ins>Features Of Java:</ins><br>i) Simple:- Syntax in java is very easy and simple to understand.
