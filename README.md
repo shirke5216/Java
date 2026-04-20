@@ -9,4 +9,5 @@ Q] What is Programming Language?<br>ANS]It is a medium to communicate with syste
 Q] Types Of Languages:- <br>i) <ins>Low Level/Binary Language:</ins> A Language which is written in 0 and 1 os called as Low Level Language.<br>
 ii) <ins> Assembly Level Language / Mid Level Language:</ins>
 A language which is written using Mnemonics is called as Mid Level Language.<br>
-<mark>Mnemonics are predefined words used in mid-level language</mark>
+<mark>Mnemonics are predefined words used in mid-level language</mark><br>
+<mark><ins>Assembler:-</ins> Assembler is a software tool which conevrts mid love language to binaray language.</mark><br>
