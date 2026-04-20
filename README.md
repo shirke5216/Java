@@ -13,7 +13,7 @@ A language which is written using Mnemonics is called as Mid Level Language.<br>
 <mark><ins>Assembler:-</ins> Assembler is a software tool which conevrts mid love language to binaray language.</mark><br>
 iii)<ins> High Level Language:</ins> A Language which is simple english and easy to understand is known as high level language. Eg:- C,C++,Kotalin,Java,etc.<br>
 <br> Q] <ins>Compiler:</ins> Compiler Is a Software Tool which converts high level language to a binary language.<br> <br>
-<ins>Features Of Java:</ins><br> <br> <ins>i) Simple:-</ins> Syntax in java is very easy and simple to understand.<br>
+<ins><h1>Features Of Java:</h1></ins><br> <br> <ins>i) Simple:-</ins> Syntax in java is very easy and simple to understand.<br>
 <ins>ii) Platform Independent:-</ins> We can run Java Code in any operating system (windowss,linux,mac). Hence, we called it as platfrom independent language.<br>
 <ins>iii) Object Oriented:-</ins> OOPS is a designed principal which helps us to coonect/map all real world entities with code instruction which makes the code short and simple to understand.<br>
 <ins>iv) Secure:-</ins> Java's Secured Featuers enable us to develop virus free appliations and byte cote adds extra security layer on code.<br>
