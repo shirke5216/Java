@@ -19,8 +19,7 @@ iii)<ins> High Level Language:</ins> A Language which is simple english and easy
 <ins>iv) Secure:-</ins> Java's Secured Featuers enable us to develop virus free appliations and byte cote adds extra security layer on code.<br>
 <ins>v) Robust :-</ins> Java is very strong it can handle huge applications without any virus attack.<br>
 <ins>vi) Automatic Garbage Collector :- </ins>Java has a inbuilt Garbage collector which automatically deleted unused data, duplicated data, unwanted data, dereferenced data on it's own, hence memory management in java is excellent.<br>
-
-
+<ins>Multithreading:-</ins>It is the process of running multiple threads. Threads are light-weight sub-process and sub tasks. It can improve performance of application by allowing them to perform multiple tasks at once.<br>
 
 
 
