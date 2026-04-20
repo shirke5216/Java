@@ -20,6 +20,9 @@ iii)<ins> High Level Language:</ins> A Language which is simple english and easy
 <ins>v) Robust :-</ins> Java is very strong it can handle huge applications without any virus attack.<br>
 <ins>vi) Automatic Garbage Collector :- </ins>Java has a inbuilt Garbage collector which automatically deleted unused data, duplicated data, unwanted data, dereferenced data on it's own, hence memory management in java is excellent.<br>
 <ins>Multithreading:-</ins>It is the process of running multiple threads. Threads are light-weight sub-process and sub tasks. It can improve performance of application by allowing them to perform multiple tasks at once.<br>
-
+<br><ins><h3>Structure Of Java</h3></ins>
+<br> Once a company receives a requirement, the developers team will start working on the project and they write a java program which is also known as "source code", and they save the file as "sourcefilename.java"(filename can be anything) now to check for any bugs/errors/mistakes developers will giev the program to the compiler for compilation.<br>
+<br><h3><ins>Compiler</h3><br></ins> The compiler checks for errors and bugs in the program, if it finds any error, compiler will throw a compilation error to the developer, and now the developer should debug(correct the code) and send it back to the compiler finds no mistake in the program/code, and when the compilation is successful, compiler converts the source code to Byte Code and save the files as 'sourcefilename.class'.<br>
+<br> <br> Java Code ---> Compiler ---> Byte Code<br> <---------Compilation---------><br>
 
 
