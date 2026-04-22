@@ -31,7 +31,9 @@ JVM reads the byte code line by line and converts to machine understandable lang
 <br><br><ins><h3>Architecture Of Java</h3></ins><br><br>
 <ins>JDK(Java Development Kit):</ins> It is a package which consists of java development tools like java compiler and JRE for execution.<br>
 <ins>JRE(Java Runtime Environment)</ins>:- It's a environment or a platform which helps in execution of java program.<br>
-<ins>JVM(Java Virtual Machine)</ins>:- It helps to convert Byte Code.
+<ins>JVM(Java Virtual Machine)</ins>:- It helps to convert Byte Code into machine understandable language with the help of JIT(Just-in-time compiler)/Interpreter.<br><br>
+<ins><h3>Tokens<h3></ins><br>
+Tokens are the smallest elecments in Java<br><br><ins>a)Keywords<ins>:- Predefined words, compiler aware words in java --- all keywords are written in lowercase letters.
 
 
 
