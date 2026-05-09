@@ -39,5 +39,23 @@ Tokens are the smallest elements in Java<br><br>
 <ins> Rules Of Writing Identifiers </ins><br> 1. The Name should contain only alphabets, numbers, underscore and $. [A-z, a-z, 0-9,_, $]<br> 2. The should not start with numbers.<br> 3. Only _ and $ are allowed, other special characters are not allowed.<br> 4. We cannot use keywords as identifiers.<br> 5. The name should always start with alphabets, but we can also start with '_' and '$' but it's not a good practice.<br> 6. Identifiers are case sensitive.<br>7.There is no restriction for length of identifiers but we normally follow 13 char maximum.<br>8.It should not contain any empty space in between.<br><br>
 <ins>c)Literals</ins>:- Literals are the value or data which we use in our java.<br><br>
 <ins>Types Of Literals</ins>:- <br> 1.Number Literals<br>2.Char Literals<br>3.Boolean Literals<br>4.String Literals<br>
+<ins><h2>Variables</h2></ins> Variables are the containers to store the information or data, Name, block of memory.<br> Variable = Dabba <br> a = 10<br> Here 'a' is a variable and '10' is a value.<br> Value is Store in a variable(dabba)
+<ins><h2>Data Types</h2></ins> Data Type indicate the type of data stored in a variable /container.<br> There are two types of datatypes<br> <h4>1. Primitive - Single Value Data</h4> 1.Byte <br> 2.Short <br> 3.int <br> 4.long <br> 5.float <br> 6.double <br> 7.char <br> 8. boolean<br> 
+<h4>2. Non-Primitive - Multi Value data or group of data.</h4> 1.String <br> 2.Class<br> 3.Interface<br> 4.Array<br>
+<h2>Operators</h2> Operators are the symbols used to perform some specific tasks. <br> <h4>1.Arithmetic Operator (+ - * / % )</h4> <h4>2.Relational Operator ( > < >= <= == !=) </h4> <h4>3.Logical Operator ( && || ! )</h4> <h4>4.Assignment Operator (+= -= *= /= %= ) </h4> <h4>5.Unary Operator (++ --)</h4> <h4>6.Tennary Operator { (condition)? var/value/Exp: var/value/Exp:}</h4>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
