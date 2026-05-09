@@ -32,16 +32,12 @@ JVM reads the byte code line by line and converts to machine understandable lang
 <ins>JDK(Java Development Kit):</ins> It is a package which consists of java development tools like java compiler and JRE for execution.<br>
 <ins>JRE(Java Runtime Environment)</ins>:- It's a environment or a platform which helps in execution of java program.<br>
 <ins>JVM(Java Virtual Machine)</ins>:- It helps to convert Byte Code into machine understandable language with the help of JIT(Just-in-time compiler)/Interpreter.<br><br>
-<ins><h2>Tokens</h2></ins><br>
+<ins><h2>Tokens</h2></ins>
 Tokens are the smallest elements in Java<br><br>
-<ins>a)Keywords</ins>:- Predefined words, compiler aware words in java --- all keywords are written in lowercase letters.<br>
-<ins>b)Identifiers</ins>:- Identifiers are the names given to the components of java.<br>Ex. Variables, methods, classes, interfaces.<br>
-<ins> <h4> Rules Of Writing Identifiers </h4> </ins><br>
-1. The Name should contain only alphabets, numbers, underscore and $. [A-z, a-z, 0-9,_, $]<br>
-
-
-
-
-
+<ins>a)Keywords</ins>:- Predefined words, compiler aware words in java --- all keywords are written in lowercase letters.<br><br>
+<ins>b)Identifiers</ins>:- Identifiers are the names given to the components of java.<br>Ex. Variables, methods, classes, interfaces.<br><br>
+<ins> Rules Of Writing Identifiers </ins><br> 1. The Name should contain only alphabets, numbers, underscore and $. [A-z, a-z, 0-9,_, $]<br> 2. The should not start with numbers.<br> 3. Only _ and $ are allowed, other special characters are not allowed.<br> 4. We cannot use keywords as identifiers.<br> 5. The name should always start with alphabets, but we can also start with '_' and '$' but it's not a good practice.<br> 6. Identifiers are case sensitive.<br>7.There is no restriction for length of identifiers but we normally follow 13 char maximum.<br>8.It should not contain any empty space in between.<br><br>
+<ins>c)Literals</ins>:- Literals are the value or data which we use in our java.<br><br>
+<ins>Types Of Literals</ins>:- <br> 1.Number Literals<br>2.Char Literals<br>3.Boolean Literals<br>4.String Literals<br>
 
 
