@@ -34,7 +34,10 @@ JVM reads the byte code line by line and converts to machine understandable lang
 <ins>JVM(Java Virtual Machine)</ins>:- It helps to convert Byte Code into machine understandable language with the help of JIT(Just-in-time compiler)/Interpreter.<br><br>
 <ins><h2>Tokens</h2></ins><br>
 Tokens are the smallest elements in Java<br><br>
-<ins>a)Keywords</ins>:- Predefined words, compiler aware words in java --- all keywords are written in lowercase letters.
+<ins>a)Keywords</ins>:- Predefined words, compiler aware words in java --- all keywords are written in lowercase letters.<br>
+<ins>b)Identifiers</ins>:- Identifiers are the names given to the components of java.<br>Ex. Variables, methods, classes, interfaces.<br>
+<ins> <h4> Rules Of Writing Identifiers </h4> </ins><br>
+1. The Name should contain only alphabets, numbers, underscore and $. [A-z, a-z, 0-9,_, $]<br>
 
 
 
